@@ -1,0 +1,72 @@
+@media screen and (max-width: 376px){  
+.box{
+    flex-direction: column;
+    width: 80vw;
+    height: 90vh;
+    border-radius: 8px;
+}
+.img1{
+    width: 80vw;
+    height: 25vh;
+    border-radius: 8px 8px 0 0px;
+}
+.box2{
+    padding-top: 22px ; 
+    margin-left: 20px ;
+    margin-right: 20px ;
+    text-align: center;
+}
+.head{
+    font-size: 13px;
+    padding-left: 24px;
+}
+.head2{
+    font-size: 13px;
+}
+.p{
+    font-size: 12px;
+    padding-top: 30px;
+    padding-left: 8px;
+    text-align: center;
+    line-height: 1.8;
+    width: 240px;
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    padding-left: 80px;
+    padding-top: 44px;
+}
+.f1{
+    padding-left: 18px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+.f2{
+    padding-left: 25px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+.f3{
+    padding-left: 18px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+.p1{
+    padding-left: 10px;
+}
+.p2{
+    padding-left: 10px;
+}
+.p3{
+    padding-left: 18px;
+}
+.comp{
+    padding-bottom: 26px;
+}
+.temp{
+    padding-bottom: 26px;
+}
+
+
+}
